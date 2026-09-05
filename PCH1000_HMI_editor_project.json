@@ -3,6 +3,44 @@
   "version": 1,
   "name": "ПЧ-1000 HMI",
   "created": "2026-09-05T10:16:04.042Z",
-  "global": {},
+  "global": {
+    "#page-home>div.home-schema:nth-of-type(1)>svg.schema>g:nth-of-type(1)>text.schema-symbol.motor-letter:nth-of-type(6)": {
+      "dy": -2.1367340087890625,
+      "dx": -0.011999511718727263
+    },
+    "#mains-wave": {},
+    "#dc-capacitor": {},
+    "#precharge-box": {},
+    "#precharge-bypass": {},
+    "#charge-time": {},
+    "#inverter-box": {},
+    "#charge-time-box": {},
+    "#clock": {
+      "fontSize": 15,
+      "textDy": -4
+    },
+    "#header-brand>span.header-help-mark:nth-of-type(2)": {},
+    "#dc-box": {},
+    "#motor-load": {},
+    "#motor-load-row>div.big": {},
+    "#motor-frequency-row>div.big": {},
+    "#motor-frequency": {},
+    "#motor-frequency-unit": {},
+    "#motor-load-row>div.big>span.unit:nth-of-type(2)": {
+      "textDx": 2
+    },
+    "#graph-tabs>button.tab.active[data-graph=\"limit\"]:nth-of-type(3)": {},
+    "#time-hour": {
+      "fontSize": 25,
+      "bold": true,
+      "textDy": -4
+    },
+    "#time-minute": {
+      "textDy": -4,
+      "fontSize": 25,
+      "bold": true
+    },
+    "#chart": {}
+  },
   "scenes": {}
 }
