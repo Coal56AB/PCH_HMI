@@ -19,7 +19,10 @@
       "fontSize": 15,
       "textDy": -2
     },
-    "#header-brand>span.header-help-mark:nth-of-type(2)": {},
+    "#header-brand>span.header-help-mark:nth-of-type(2)": {
+      "dy": -52,
+      "dx": -3
+    },
     "#dc-box": {},
     "#motor-load": {},
     "#motor-load-row>div.big": {},
@@ -47,7 +50,10 @@
     "nav.bottom>button.nav[data-page=\"home\"]:nth-of-type(1)": {},
     "#page-graphs>div.title.setpoint-summary:nth-of-type(1)>span.summary-item.encoder-target[data-summary=\"mod\"]:nth-of-type(1)": {},
     "#page-home": {},
-    "#header-brand": {},
+    "#header-brand": {
+      "sx": 0.9996765748681411,
+      "bold": false
+    },
     "#control-panel>div.control-head:nth-of-type(1)>span:nth-of-type(1)": {},
     "#page-home>div.home-schema:nth-of-type(1)>svg.schema>g:nth-of-type(1)": {},
     "#control-panel>div.control-head:nth-of-type(1)>span:nth-of-type(3)": {},
@@ -66,7 +72,34 @@
     "#page-home>div.home-schema:nth-of-type(1)>svg.schema>g:nth-of-type(1)>text.schema-symbol:nth-of-type(3)": {},
     "#page-home>div.home-schema:nth-of-type(1)>svg.schema>g:nth-of-type(1)>text.schema-symbol:nth-of-type(5)": {},
     "#output-dc-row": {},
-    "#motor-speed-row>div.big": {}
+    "#motor-speed-row>div.big": {},
+    "#header-page-title": {
+      "bold": true
+    },
+    "header.topbar": {},
+    "#filter-btn": {
+      "text": "ФИЛЬТР ЖУРНАЛА"
+    },
+    "#journal-body>div.journal-row.info:nth-of-type(1)>span.journal-time:nth-of-type(1)": {},
+    "#journal-body>div.journal-row.info:nth-of-type(2)>span.journal-time:nth-of-type(1)": {},
+    "#page-journal": {},
+    "#page-params>div.params-wrap:nth-of-type(2)": {},
+    "#run-text": {
+      "fontSize": 13,
+      "dx": -1.727273941040039
+    },
+    "#param-pane>div.param-row.param-choice:nth-of-type(2)": {},
+    "#param-pane>div.param-row.editable:nth-of-type(4)>span:nth-of-type(1)": {},
+    "#run-state>i": {
+      "dx": 0,
+      "dy": 0.6363630294799805
+    },
+    "#page-params>div.title.setpoint-summary:nth-of-type(1)>span.summary-item[data-summary=\"limit\"]:nth-of-type(3)": {},
+    "#run-mode>span.uf-slash": {},
+    "#run-state": {},
+    "#run-mode": {
+      "dx": -2.840911865234375
+    }
   },
   "scenes": {}
 }
