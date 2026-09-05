@@ -17,7 +17,7 @@
     "#charge-time-box": {},
     "#clock": {
       "fontSize": 15,
-      "textDy": -4
+      "textDy": -2
     },
     "#header-brand>span.header-help-mark:nth-of-type(2)": {},
     "#dc-box": {},
@@ -27,20 +27,30 @@
     "#motor-frequency": {},
     "#motor-frequency-unit": {},
     "#motor-load-row>div.big>span.unit:nth-of-type(2)": {
-      "textDx": 2
+      "textDx": 4
     },
     "#graph-tabs>button.tab.active[data-graph=\"limit\"]:nth-of-type(3)": {},
     "#time-hour": {
       "fontSize": 25,
       "bold": true,
-      "textDy": -4
+      "textDy": -5
     },
     "#time-minute": {
-      "textDy": -4,
+      "textDy": -5,
       "fontSize": 25,
       "bold": true
     },
-    "#chart": {}
+    "#chart": {},
+    "nav.bottom>button.nav[data-page=\"home\"]:nth-of-type(1)>svg>path": {},
+    "#page-graphs>div.graph-controls:nth-of-type(4)": {},
+    "#page-graphs>div.graph-controls:nth-of-type(4)>div.graph-control-row.scale-row>button.gbtn[data-act=\"zoomin\"]:nth-of-type(2)": {},
+    "nav.bottom>button.nav[data-page=\"home\"]:nth-of-type(1)": {},
+    "#page-graphs>div.title.setpoint-summary:nth-of-type(1)>span.summary-item.encoder-target[data-summary=\"mod\"]:nth-of-type(1)": {},
+    "#page-home": {},
+    "#header-brand": {},
+    "#control-panel>div.control-head:nth-of-type(1)>span:nth-of-type(1)": {},
+    "#page-home>div.home-schema:nth-of-type(1)>svg.schema>g:nth-of-type(1)": {},
+    "#control-panel>div.control-head:nth-of-type(1)>span:nth-of-type(3)": {}
   },
   "scenes": {}
 }
